@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0d16a81-ab91-4a7e-bc23-35eeea66a1a9" name="Changes" comment="Primi test">
-      <change beforePath="$PROJECT_DIR$/.idea/PythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ChessModifiedEngine.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="c0d16a81-ab91-4a7e-bc23-35eeea66a1a9" name="Changes" comment="Rename">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -33,60 +31,60 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0004301119746435" />
-      <entry key="S2" value="1.1923906360133463" />
-      <entry key="S5" value="2.095803932747872" />
-      <entry key="S10" value="4.065348117164566" />
-      <entry key="S30" value="9.767106306749731" />
-      <entry key="S60" value="13.669085224967269" />
-      <entry key="M2" value="18.678466499722727" />
-      <entry key="M5" value="26.386514796228347" />
-      <entry key="M10" value="31.438525516605665" />
-      <entry key="M15" value="35.1488129933423" />
-      <entry key="M30" value="48.4760613107976" />
-      <entry key="H1" value="81.26342254110077" />
-      <entry key="H2" value="131.15298471936438" />
-      <entry key="H4" value="178.295292630913" />
-      <entry key="D1" value="238.0017195719713" />
-      <entry key="W1" value="250.78451824387233" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.000000002642013" />
+      <entry key="S5" value="1.0009015444968703" />
+      <entry key="S10" value="1.0668003659133138" />
+      <entry key="S30" value="2.3891601710858548" />
+      <entry key="S60" value="4.873043896857887" />
+      <entry key="M2" value="10.412149496930404" />
+      <entry key="M5" value="28.237659226241423" />
+      <entry key="M10" value="50.82424347240643" />
+      <entry key="M15" value="70.84597547318216" />
+      <entry key="M30" value="123.23019029507181" />
+      <entry key="H1" value="196.8474729857762" />
+      <entry key="H2" value="284.5575810689974" />
+      <entry key="H4" value="366.0488747400439" />
+      <entry key="D1" value="473.8832699596684" />
+      <entry key="W1" value="497.8195525535058" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="5.4038463589821575E-28" />
-      <entry key="MS500" value="3.5199832636024417E-6" />
-      <entry key="S2" value="0.043314683926575455" />
-      <entry key="S5" value="0.2848748174276285" />
-      <entry key="S10" value="0.533736655503094" />
-      <entry key="S30" value="0.8111646384764725" />
-      <entry key="S60" value="0.9006467889669469" />
-      <entry key="M2" value="0.9490241245442326" />
-      <entry key="M5" value="0.9792890561243413" />
-      <entry key="M10" value="0.9896128526492415" />
-      <entry key="M15" value="0.9940077690201102" />
-      <entry key="M30" value="1.0392427486037632" />
-      <entry key="H1" value="1.2886649975761908" />
-      <entry key="H2" value="1.7599781859348471" />
-      <entry key="H4" value="2.232623354456795" />
-      <entry key="D1" value="2.844930984094843" />
-      <entry key="W1" value="2.9770717009594883" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="2.4003435709203587E-94" />
+      <entry key="S5" value="3.5654090572875805E-38" />
+      <entry key="S10" value="1.8882291821783614E-19" />
+      <entry key="S30" value="5.758724027880535E-7" />
+      <entry key="S60" value="8.040533680199859E-4" />
+      <entry key="M2" value="0.034471806398902516" />
+      <entry key="M5" value="0.4160333415406277" />
+      <entry key="M10" value="1.5239136958621602" />
+      <entry key="M15" value="3.089515751158024" />
+      <entry key="M30" value="7.604423462944975" />
+      <entry key="H1" value="12.827940730388384" />
+      <entry key="H2" value="17.148186146603496" />
+      <entry key="H4" value="20.117788844236106" />
+      <entry key="D1" value="23.26957805778495" />
+      <entry key="W1" value="23.8932621258563" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="4.649323488856885E-14" />
-      <entry key="MS500" value="0.002401595947673835" />
-      <entry key="S2" value="0.4072133315892636" />
-      <entry key="S5" value="1.7860705839895556" />
-      <entry key="S10" value="4.152759650896767" />
-      <entry key="S30" value="10.328543522884475" />
-      <entry key="S60" value="14.414687343191293" />
-      <entry key="M2" value="19.53082221580572" />
-      <entry key="M5" value="27.31512874591896" />
-      <entry key="M10" value="32.39918492730976" />
-      <entry key="M15" value="36.12237793735364" />
-      <entry key="M30" value="49.5037356783242" />
-      <entry key="H1" value="82.54442039079875" />
-      <entry key="H2" value="132.90751088925927" />
-      <entry key="H4" value="180.52438834402903" />
-      <entry key="D1" value="240.8458894518156" />
-      <entry key="W1" value="253.76147586685966" />
+      <entry key="MS100" value="0.7900413118633771" />
+      <entry key="MS500" value="0.9539595505475581" />
+      <entry key="S2" value="0.9882856541126794" />
+      <entry key="S5" value="0.996195368119461" />
+      <entry key="S10" value="1.0643049556406625" />
+      <entry key="S30" value="2.3859922018519812" />
+      <entry key="S60" value="4.865961693202083" />
+      <entry key="M2" value="10.431386720890984" />
+      <entry key="M5" value="28.629311147392443" />
+      <entry key="M10" value="52.322364486035035" />
+      <entry key="M15" value="73.90964082742643" />
+      <entry key="M30" value="130.8105551758295" />
+      <entry key="H1" value="209.65633629405187" />
+      <entry key="H2" value="301.69249180409525" />
+      <entry key="H4" value="386.15839452761173" />
+      <entry key="D1" value="497.1511211806025" />
+      <entry key="W1" value="521.7125570724302" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -101,217 +99,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="DjangoTestsConfigurationType">
-      <module name="ChessModifiedEngine" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="TARGET" value="" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="ChessModifiedEngine" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Python.Celery" factoryName="Python.Celery.App">
-      <module name="ChessModifiedEngine" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Python.Celery" factoryName="Python.Celery.Task">
-      <module name="ChessModifiedEngine" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Python.FlaskServer">
-      <module name="ChessModifiedEngine" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="launchJavascriptDebuger" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="ChessModifiedEngine" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Docutils task">
-      <module name="ChessModifiedEngine" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Sphinx task">
-      <module name="ChessModifiedEngine" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Autodetect">
-      <module name="ChessModifiedEngine" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="ChessModifiedEngine" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
-  </component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -328,7 +137,9 @@
       <updated>1790277192611</updated>
       <workItem from="1790277193687" duration="760000" />
       <workItem from="1790278095400" duration="211000" />
-      <workItem from="1790346788592" duration="7215000" />
+      <workItem from="1790346788592" duration="7273000" />
+      <workItem from="1790496820038" duration="781000" />
+      <workItem from="1790579776314" duration="4712000" />
     </task>
     <task id="LOCAL-00001" summary="Primi test">
       <option name="closed" value="true" />
@@ -338,7 +149,23 @@
       <option name="project" value="LOCAL" />
       <updated>1790277360542</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Creazione classi engine">
+      <option name="closed" value="true" />
+      <created>1790358838966</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1790358838966</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Rename">
+      <option name="closed" value="true" />
+      <created>1790358855968</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1790358855968</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -346,6 +173,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primi test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primi test" />
+    <MESSAGE value="Creazione classi engine" />
+    <MESSAGE value="Rename" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rename" />
   </component>
 </project>
